@@ -8,7 +8,7 @@ title: NOeZ
 [Accéder à Instagram](https://instagram.com/dcs_world_noescapezone?igshid=bpl8wo0yjjt8)
 
 ---
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-fillout-oregon-s3.s3.us-west-2.amazonaws.com%2Forgid-44212%2Fflowpublicid-nhX7NPcktCus%2F208a7b1e-0ce8-4583-91eb-87b4910ba4a0-E3gtiPPv4IWTde7w26yA4aEwCG6mB1o7Kb9CmL6NbKoP5sdfAotYiBwHpWEx9d4M5F3OhZcHsLglV71bp9AZbOyIa65Wd5m4O1N1%2FNOeZ.png?id=9f7921e5-7d38-45d6-9f25-7a75b0e731f5&table=block&spaceId=9b56e4a6-f62a-4da2-8df7-f1b261e8ca6d&width=2000&userId=8bc0c44b-ad57-476a-ade1-0d5a75b79592&cache=v2" alt="drawing" width="200"/>
+<img src="/commus_img/noez.png" alt="drawing" width="200" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Présentation du groupe
 

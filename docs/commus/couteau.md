@@ -10,7 +10,7 @@ title: Template
 [Twitch de LeBibs](https://www.twitch.tv/le_bibs_)
 
 ---
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-fillout-oregon-s3.s3.us-west-2.amazonaws.com%2Forgid-44212%2Fflowpublicid-nhX7NPcktCus%2F54e8b60b-af76-4738-825e-9f0e622ea5f0-jidvbYivhKsEPiw30lfrwvv2TF5svaiT9Gj1wP0t6ZX7jlSYBwpzBHPCM81JWqsldfMHr4xkqaQQtHFlgjfcEqeEGJqg9h7ZE5h%2FEMBLEME-2023.png?id=9e7e0d09-9d7d-4713-9e93-26970f15b257&table=block&spaceId=9b56e4a6-f62a-4da2-8df7-f1b261e8ca6d&width=2000&userId=8bc0c44b-ad57-476a-ade1-0d5a75b79592&cache=v2" alt="drawing" width="200"/>
+<img src="/commus_img/couteau.png" alt="drawing" width="200" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Présentation du groupe
 

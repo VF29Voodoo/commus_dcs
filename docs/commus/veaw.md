@@ -8,7 +8,7 @@ title: 4th VEAW (Virtual Expeditionary Air Wing)
 [Accéder au Discord 4th VEAW](https://discord.com/invite/UXHPDtcEES) | [Accéder au Site Web 4th VEAW](https://veaw4.fr/)
 
 ---
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-fillout-oregon-s3.s3.us-west-2.amazonaws.com%2Forgid-44212%2Fflowpublicid-efTz2SvAXXgk%2F34c6f0e0-6a2f-4c22-9e0a-7a2c4a5e7b17.png?id=4c5d3ee8-ee97-4aeb-a8fe-97a11dcb77a7&cache=v2" alt="4th VEAW Logo" width="200"/>
+<img src="/commus_img/veaw.png" alt="drawing" width="200" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Présentation du groupe
 

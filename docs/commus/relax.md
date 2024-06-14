@@ -8,7 +8,7 @@ title: RELAX
 [Accéder au Discord](https://discord.gg/XZkQYGbnxF)
 
 ---
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-fillout-oregon-s3.s3.us-west-2.amazonaws.com%2Forgid-44212%2Fflowpublicid-nhX7NPcktCus%2F0235e136-3b98-4e61-bdb6-0100e07b316f.png?id=6f3c4896-8f11-4ce5-bae0-3421547c1ba7&cache=v2" alt="drawing" width="200"/>
+<img src="/commus_img/relax.webp" alt="drawing" width="200" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Présentation du groupe
 

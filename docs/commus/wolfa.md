@@ -9,6 +9,8 @@ title: Wolfa - Virtual Pilots Corporation
 
 ---
 
+<img src="/commus_img/wolfa.jpeg" alt="drawing" width="200" style="display: block; margin-left: auto; margin-right: auto;"/>
+
 ## Présentation du groupe
 
 La Wolfa - Virtual Pilots Corporation est une communauté de pilotes virtuels passionnés évoluant principalement sur DCS World (Open Beta). Fondée par CrashTest, un leader expérimenté, la Wolfa se distingue par son engagement à fournir des expériences de vol réalistes et immersives sur les théâtres d’opérations modernes.

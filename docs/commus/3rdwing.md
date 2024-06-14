@@ -11,6 +11,8 @@ title: Template
 
 ---
 
+<img src="/commus_img/3rdwing.png" alt="drawing" width="200" style="display: block; margin-left: auto; margin-right: auto;"/>
+
 
 ## Présentation du groupe
 

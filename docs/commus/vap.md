@@ -8,7 +8,7 @@ title: Aerobatics Prestige (VAP)
 [Accéder au Discord](https://discord.gg/V5SyVZxgTt)
 
 ---
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-fillout-oregon-s3.s3.us-west-2.amazonaws.com%2Forgid-44212%2Fflowpublicid-nhX7NPcktCus%2Ff0f9a79e-3f85-4e21-97a1-9b4c9f0a22f7.png?id=7a57d6c8-c2e8-4ff3-953d-47f44ba70ed7&cache=v2" alt="drawing" width="200"/>
+<img src="/commus_img/vap.png" alt="drawing" width="250" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Présentation du groupe
 

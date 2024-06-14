@@ -8,7 +8,7 @@ title: Template
 [Accéder au Discord](https://discord.gg/ucD3ccF4g7)
 
 ---
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-fillout-oregon-s3.s3.us-west-2.amazonaws.com%2Forgid-44212%2Fflowpublicid-nhX7NPcktCus%2F73910e9c-46db-4c26-8d5f-af4d5b2cd110-6n9wZ1tZPZLmNYpmJzbtDNU9pZP7pyl3V1ghX3Xm0TcAMbPMeu9Ff4VnDS6BdV5KgjPGbIrhJ1D5Rc33c8VCLGUsLQIb5ut2tP5y%2Fdiscord_13_escadre.png?id=53ed49d0-74b6-4413-913c-6a4e3d6a80b1&table=block&spaceId=9b56e4a6-f62a-4da2-8df7-f1b261e8ca6d&width=2000&userId=8bc0c44b-ad57-476a-ade1-0d5a75b79592&cache=v2" alt="drawing" width="200"/>
+<img src="/commus_img/eraf.png" alt="drawing" width="200" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Présentation du groupe
 

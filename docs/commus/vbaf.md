@@ -8,7 +8,7 @@ title: Virtual Belgian Air Force (VBAF)
 [Accéder au Discord](https://discord.gg/mjVqwGSzfV)
 
 ---
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-fillout-oregon-s3.s3.us-west-2.amazonaws.com%2Forgid-44212%2Fflowpublicid-efTz2SvAXXgk%2F2d3ecb54-d0c6-4845-bff1-9cdde90a4e78.png?id=6e30d5ef-90a1-46c0-9d6b-7606a8b47f29&cache=v2" alt="drawing" width="200"/>
+<img src="/commus_img/vbaf.png" alt="drawing" width="440" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Présentation du groupe
 

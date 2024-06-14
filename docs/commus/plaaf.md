@@ -8,7 +8,7 @@ title: PLAAF | People's Liberation Army Air Force
 [Accéder au Discord](https://discord.gg/RxXz3FF4)
 
 ---
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-fillout-oregon-s3.s3.us-west-2.amazonaws.com%2Forgid-44212%2Fflowpublicid-nhX7NPcktCus%2F5871d591-8365-4b4b-9504-c274f95e4b94-nv6dyWeAH7mV1Bfi2tSw6iLLRj2E0U8dOskF49aKOzgF4j9ZBJ3wFAG5KItBdWpQFql1l7fv4a0s2AcdtQa2BZcb4GTFEjcgm2F8Q%2FPLAAF.png?id=c7db0f1d-1cc4-4e34-8cfb-4cbbff7d00e1&table=block&spaceId=9b56e4a6-f62a-4da2-8df7-f1b261e8ca6d&width=2000&userId=8bc0c44b-ad57-476a-ade1-0d5a75b79592&cache=v2" alt="drawing" width="200"/>
+<img src="/commus_img/plaaf.png" alt="drawing" width="200" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Présentation du groupe
 

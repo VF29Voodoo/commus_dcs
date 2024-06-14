@@ -11,6 +11,7 @@ title: Template
 
 ---
 
+<img src="/commus_img/2ffs.png" alt="drawing" width="200" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Présentation du groupe
 

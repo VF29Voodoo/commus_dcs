@@ -8,7 +8,7 @@ title: Leading Edge (LD_E)
 [Accéder au Discord](https://discord.gg/abmwjqnwht)
 
 ---
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-fillout-oregon-s3.s3.us-west-2.amazonaws.com%2Forgid-44212%2Fflowpublicid-nhX7NPcktCus%2F1e5e9c5b-c53d-465c-90aa-5a96ebf98d7d-MiL4XeyyF3rKIk7yPCtF9IlzJ6NyZPs1yeZiTRbXQY3YqjO36G3x5yXnCNd2jP5bn1mNlXfXXP3IAsf4z0p0DOfeMRa8y1CnTtHrM%2FLEADING_EDGE.png?id=1e2e4e7f-9d6e-4a7a-ae4d-53f76108be7c&table=block&spaceId=9b56e4a6-f62a-4da2-8df7-f1b261e8ca6d&width=2000&userId=8bc0c44b-ad57-476a-ade1-0d5a75b79592&cache=v2" alt="drawing" width="200"/>
+<img src="/commus_img/LDE.png" alt="drawing" width="270" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Présentation du groupe
 

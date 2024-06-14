@@ -8,7 +8,7 @@ title: Sky Haven
 [Accéder au Discord](https://discord.gg/AGRKs4vqeB)
 
 ---
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-fillout-oregon-s3.s3.us-west-2.amazonaws.com%2Forgid-44212%2Fflowpublicid-nhX7NPcktCus%2F80e71f54-96a5-4a0e-b3e0-6c5c75a6d518.png?id=2a4b574f-af29-4c3d-9ef3-7c7b21f5b6fe&cache=v2" alt="drawing" width="200"/>
+<img src="/commus_img/skyhaven.webp" alt="drawing" width="100" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Présentation du groupe
 

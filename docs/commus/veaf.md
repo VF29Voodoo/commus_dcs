@@ -8,7 +8,7 @@ title: VEAF (Virtual European Air Force)
 [Accéder au site VEAF](https://www.veaf.org) | [Accéder au Discord VEAF](https://www.veaf.org/discord)
 
 ---
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-fillout-oregon-s3.s3.us-west-2.amazonaws.com%2Forgid-44212%2Fflowpublicid-efTz2SvAXXgk%2F6a8d48f3-5ee6-4670-9e87-3bc7c8ff9d98.png?id=1f75b726-5e9e-4d91-b7f5-8c00aeb6a8b5&cache=v2" alt="VEAF Logo" width="200"/>
+<img src="/commus_img/veaf.png" alt="drawing" width="200" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Présentation du groupe
 

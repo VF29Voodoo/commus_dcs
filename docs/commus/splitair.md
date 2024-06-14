@@ -8,7 +8,7 @@ title: Split Air
 [Accéder au Discord](https://discord.gg/cRh9PFMwWP)
 
 ---
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-fillout-oregon-s3.s3.us-west-2.amazonaws.com%2Forgid-44212%2Fflowpublicid-nhX7NPcktCus%2F8e9ac510-45db-4b19-bb7c-805f00f141c4.png?id=7a57d6c8-c2e8-4ff3-953d-47f44ba70ed7&cache=v2" alt="drawing" width="200"/>
+<img src="/commus_img/splitair.png" alt="drawing" width="280" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Présentation du groupe
 

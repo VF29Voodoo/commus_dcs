@@ -8,7 +8,7 @@ title: Template
 [Accéder au Discord](https://discord.gg/RMHbJapcru)
 
 ---
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-fillout-oregon-s3.s3.us-west-2.amazonaws.com%2Forgid-44212%2Fflowpublicid-nhX7NPcktCus%2F90be34ab-5cd0-47b3-9f1e-6494d6f8d1c6-6n7W1KQgpcuzs5VVutlE6THZLqKwR9nQ6EchOPH80hGvKkN8CwMfg7IvVd0Rd7-kDgyozgb7kT99g6PwcyGhkoFQ4QIutG8Lt9L%2Fgameplan_discord.png?id=ce442f6a-90f6-4417-98b5-5024e5d3e155&table=block&spaceId=9b56e4a6-f62a-4da2-8df7-f1b261e8ca6d&width=2000&userId=8bc0c44b-ad57-476a-ade1-0d5a75b79592&cache=v2" alt="drawing" width="200"/>
+<img src="/commus_img/gameplan.png" alt="drawing" width="320" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Présentation du groupe
 
