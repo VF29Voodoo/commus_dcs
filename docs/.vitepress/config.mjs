@@ -69,6 +69,8 @@ export default defineConfig({
     footer: {
       message: 'Released under the <a href="https://fr.wikipedia.org/wiki/Licence_MIT">MIT License</a>.',
       copyright: 'Copyright © 2024 <a href="https://kerboul.me/site_gov/">Gouvernement du Kerboulistan</a>'
-    }
+    },
+
+    appearance: 'dark',
   }
 })
