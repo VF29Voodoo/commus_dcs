@@ -57,7 +57,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/DaKerboul/commus_dcs' }
     ],
 
     search: {
