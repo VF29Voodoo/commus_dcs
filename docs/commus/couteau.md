@@ -1,0 +1,44 @@
+---
+layout: doc
+title: Template
+---
+
+# Communauté COUTEAU ALPHA
+
+[Accéder au Discord](https://discord.gg/2TBsfVNbFj)
+
+[Twitch de LeBibs](https://www.twitch.tv/le_bibs_)
+
+---
+<img src="https://www.notion.so/image/https%3A%2F%2Fprod-fillout-oregon-s3.s3.us-west-2.amazonaws.com%2Forgid-44212%2Fflowpublicid-nhX7NPcktCus%2F54e8b60b-af76-4738-825e-9f0e622ea5f0-jidvbYivhKsEPiw30lfrwvv2TF5svaiT9Gj1wP0t6ZX7jlSYBwpzBHPCM81JWqsldfMHr4xkqaQQtHFlgjfcEqeEGJqg9h7ZE5h%2FEMBLEME-2023.png?id=9e7e0d09-9d7d-4713-9e93-26970f15b257&table=block&spaceId=9b56e4a6-f62a-4da2-8df7-f1b261e8ca6d&width=2000&userId=8bc0c44b-ad57-476a-ade1-0d5a75b79592&cache=v2" alt="drawing" width="200"/>
+
+## Présentation du groupe
+
+Si certains d'entre vous recherchent une communauté accueillante, dynamique, avec une ambiance conviviale et très active, COUTEAU ALPHA est faite pour vous ! Ce nouveau venu commence fort et était très attendu par la communauté. En général, nos missions sont dotées de "persistance", conservant la progression des unités ennemies détruites à chaque redémarrage. Ces événements sont bien fréquentés, attirant en moyenne 10 à 15 personnes chaque soir.
+
+Aucune restriction d'accès sur nos plateformes (Discord et serveur) ; c'est ouvert à tous, y compris aux débutants. En vol, l'utilisation idéale de SRS est recommandée, vous offrant une immersion et une expérience de jeu optimales tout en évitant les collisions entre les participants. Vous pourrez également discuter en vocal chaque soir, voler en groupe, et surtout vous amuser, le tout dans le respect. Un gros point positif que je tiens à souligner est la disponibilité d'une bibliothèque regroupant toutes nos fiches/notes sur nos modules, ainsi que les guides de Chuck et d'autres informations importantes.
+
+Chaque mois, nous organisons une mission COUTEAU ALPHA pour apporter un peu de défi et de cohérence stratégique à la communauté.
+
+## Informations Complémentaires
+
+- **Nom du Groupe** : COUTEAU ALPHA
+- **Taille** : Hubs de la Communauté (+300 Membres)
+- **Type** : Communauté sans but d'escadron interne
+- **Fondateur** : LeBibs
+- **Contact Principal** : xMinikut
+- **Recrutement** : Aucun
+- **Lien Principal** : [Discord](https://discord.gg/2TBsfVNbFj)
+- **Période Historique** : Cold War - Early (1950-1960s), Cold War - Late (1970-1980s), Cold War - Mid (1960-1970s), Début Moderne (2000s), Post Moderne (2010s et +), WW2 (1940s)
+- **Liste détaillée des Modules** : Tous les Modules Avions, Tous les Modules Hélicoptères
+- **Fréquence des évènements** : Hebdomadaire (1 chaque semaine)
+- **Expériences Proposées** :
+  - Missions Arcade/Fun
+  - Missions MILSIM Lite
+  - Présence d'un Serveur Dédié 24/7
+  - Tournois (Dogfight/BVR/etc)
+  - Événements Inter-Communautaires
+
+- **Objectif du Groupe** : Notre objectif global est de rassembler des passionnés autour d'une même passion commune et de proposer des événements accessibles à tous, peu importe le niveau de chacun.
+
+- **Conditions d'Entrée** : Aucune condition

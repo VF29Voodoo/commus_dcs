@@ -7,16 +7,27 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Accueil', link: '/' },
+      { text: 'Communautés', link: '/new' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Présentation',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Nouveau Format ?', link: '/new' }
+        ]
+      },
+      {
+        text: 'Communautés',
+        items: [
+          { text: '1er ROC', link: '/commus/1roc' }
+        ]
+      },
+      {
+        text: 'Contact',
+        items: [
+          { text: 'Contact', link: '/contact' }
         ]
       }
     ],

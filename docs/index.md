@@ -6,6 +6,9 @@ hero:
   name: "Communautés DCS World Francophones"
   text: ""
   tagline: Retrouvez ici la liste des communautés DCS World Francophones, et rejoignez-les pour des vols en escadrille, des missions en coopération, des événements, des formations, et bien plus encore !
+  image:
+    src: /logo.png
+    alt: Communautés DCS World Francophones
   actions:
     - theme: brand
       text: Liste des communautés
