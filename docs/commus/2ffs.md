@@ -10,7 +10,7 @@ title: Template
 [Site Web](http://2nd-ffs.fr/)
 
 ---
-<img src="https://prod-fillout-oregon-s3.s3.us-west-2.amazonaws.com/orgid-44212/flowpublicid-nhX7NPcktCus/fa25eb48-463a-496c-98a2-0d508c7eb888-lZR4Yaxi1VSmIVVndWtUIcOp5mgvQChiXZGU34E3x9c6eCOfkyDpr9L3ET0RDiK7PzuNJFMVYryxMFBCTnkujTntSSp1KzKA4zV/2ndFFS_logo_vectorisA.png" alt="drawing" width="200"/>
+
 
 ## Présentation du groupe
 

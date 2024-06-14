@@ -21,7 +21,8 @@ export default defineConfig({
       {
         text: 'Communautés',
         items: [
-          { text: '1er ROC', link: '/commus/1roc' }
+          { text: '1er ROC', link: '/commus/1roc' },
+          { text: '2nd French Fighter Squadron', link: '/commus/2ffs' },
         ]
       },
       {
