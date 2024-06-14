@@ -1,11 +1,9 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Commus DCS FR",
   description: "La liste des Communautés DCS World Francophones",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Accueil', link: '/' },
       { text: 'Communautés', link: '/new' }
@@ -31,6 +29,7 @@ export default defineConfig({
           { text: 'EA-11', link: '/commus/ea11' },
           { text: 'ECT RFV', link: '/commus/ectrfv' },
           { text: 'ERAF', link: '/commus/eraf' },
+          { text: 'ESCA', link: '/commus/esca' },
           { text: 'Gameplan', link: '/commus/gameplan' },
           { text: 'Groupement de Chasse 22', link: '/commus/gc22' },
           { text: 'Kerboul', link: '/commus/kerboul' },
@@ -41,6 +40,7 @@ export default defineConfig({
           { text: 'RelaX', link: '/commus/relax' },
           { text: 'Sky Haven', link: '/commus/skyhaven' },
           { text: 'Split-Air', link: '/commus/splitair' },
+          { text: 'Swiss Alpine Fighters', link: '/commus/saf' },
           { text: 'Virtual Aerobatics Prestige', link: '/commus/vap' },
           { text: 'Virtual Belgian Air Force', link: '/commus/vbaf' },
           { text: 'Virtual European Air Force', link: '/commus/veaf' },

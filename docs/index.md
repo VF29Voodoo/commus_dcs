@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: Liste des communautés
-      link: /markdown-examples
+      link: /new
     - theme: alt
       text: Ajouter/Modifier une communauté
-      link: /api-examples
+      link: /new
 
 features:
   - title: Mises à jour régulières
