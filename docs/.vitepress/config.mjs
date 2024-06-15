@@ -17,6 +17,12 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Serveurs Officiels',
+        items: [
+          { text: 'Liens Officiels', link: '/official' }
+        ]
+      },
+      {
         text: 'Communautés',
         items: [
           { text: '1er ROC', link: '/commus/1roc' },
