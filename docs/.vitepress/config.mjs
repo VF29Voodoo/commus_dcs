@@ -24,6 +24,7 @@ export default defineConfig({
           { text: '3rd Wing', link: '/commus/3rdwing' },
           { text: '06th Multirole Helicopter Regiment', link: '/commus/06mhr' },
           { text: 'Bullseye Francophone', link: '/commus/bfr' },
+          { text: 'CheckSix', link: '/commus/c6' },
           { text: 'Cellules Rapaces', link: '/commus/cellulesrapaces' },
           { text: 'Cirrus', link: '/commus/cirrus' },
           { text: 'Couteau Alpha', link: '/commus/couteau' },
