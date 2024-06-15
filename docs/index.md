@@ -26,3 +26,6 @@ features:
     details: Chaque communauté dispose d'une page qui lui est complètement dédiée, avec des informations détaillées et des liens utiles.
 ---
 
+::: tip Information
+  Ce site est continuellement en cours de développement. Si vous avez des suggestions, des idées, ou des modifications à proposer, n'hésitez pas à contribuer sur GitHub !
+:::
