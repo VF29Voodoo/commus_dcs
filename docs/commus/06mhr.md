@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Template
+title: 06 MHR
 ---
 
 # 06th MHR (Multirole Helicopter Regiment)

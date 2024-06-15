@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Template
+title: ECT RFV
 ---
 
 # 13° Escadre de Chasse et de Transport RFV

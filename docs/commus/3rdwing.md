@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Template
+title: 3rd Wing
 ---
 
 # 3rd WING (3rd)

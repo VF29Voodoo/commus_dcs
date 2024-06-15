@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Template
+title: Couteau Alpha
 ---
 
 # Communauté COUTEAU ALPHA

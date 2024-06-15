@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Template
+title: Cirrus
 ---
 
 # Cirrus Flight

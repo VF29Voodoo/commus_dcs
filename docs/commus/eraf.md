@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Template
+title: ERAF
 ---
 
 # Escadron de Reconnaissance et d'Attaque Français (ERAF)

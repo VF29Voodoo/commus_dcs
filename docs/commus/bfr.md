@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Template
+title: BFR
 ---
 
 # Bullseye Francophone (BFR)

@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Template
+title: ESCA
 ---
 
 # École de Simulation de Combat Aérien (ESCA)

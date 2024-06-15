@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Template
+title: 2nd FFS
 ---
 
 # 2nd French Fighter Squadron (2nd-FFS)

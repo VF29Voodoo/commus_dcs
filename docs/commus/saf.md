@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Template
+title: SAF
 ---
 
 # Swiss Alpine Fighters (SAF)
