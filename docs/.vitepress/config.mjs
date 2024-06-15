@@ -72,5 +72,10 @@ export default defineConfig({
     },
 
     appearance: 'dark',
+
+    editLink: {
+      pattern: 'https://github.com/DaKerboul/commus_dcs/edit/main/docs/:path',
+      text: 'Modifier cette page sur GitHub'
+    }
   }
 })

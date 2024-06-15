@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: Nouveau Format ?
+editLink: false
 ---
 
 # Bienvenue sur le site des Communautés DCS World Francophones !
