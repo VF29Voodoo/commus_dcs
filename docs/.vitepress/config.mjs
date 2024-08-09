@@ -31,6 +31,7 @@ export default defineConfig({
           { text: '1er ROC', link: '/commus/1roc' },
           { text: '2nd French Fighter Squadron', link: '/commus/2ffs' },
           { text: '3rd Wing', link: '/commus/3rdwing' },
+          { text: '4th Virtual Expeditionary Air Wing' , link: '/commus/veaw' },
           { text: '51th Massilia', link: '/commus/51thMassilia.md' },
           { text: '64 vFAS', link: '/commus/64vFAS.md' },
           { text: '71st WASP', link: '/commus/71stWASP.md' },
@@ -79,7 +80,6 @@ export default defineConfig({
           { text: 'Virtual Aerobatics Prestige', link: '/commus/vap' },
           { text: 'Virtual Belgian Air Force', link: '/commus/vbaf' },
           { text: 'Virtual European Air Force', link: '/commus/veaf' },
-          { text: 'Virtual Expeditionary Air Wing' , link: '/commus/veaw' },
           { text: 'Wolfa', link: '/commus/wolfa' },
         ]
       },
